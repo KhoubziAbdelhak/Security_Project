@@ -1,7 +1,7 @@
 ## Activity1:
 * To make the tools diractory you can type the file sizes you want inside **files_sizes.txt** 
 	![files_sizes](./screenshots/20230328155815.png)
-* then run `./create_sized_files.sh` 
+* then run `./create_sized_files.sh`
 	![creating_files](./screenshots/20230329183442.png)
 * After that you can start benchmark AES and 3DES:
 	* benchmarking AES: 
