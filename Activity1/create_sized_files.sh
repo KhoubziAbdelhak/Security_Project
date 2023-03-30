@@ -1,5 +1,9 @@
 #!/bin/sh
 
+if [ ! -d ./tools ]; then
+  mkdir tools
+if
+
 while read line; do
 
   size="$line"
