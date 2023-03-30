@@ -1,6 +1,6 @@
 #Activity1:
 	To make the tools diractory you can type the file sizes you want inside **files_sizes.txt** 
-	![[Pasted image 20230328155815.png]]	
+	![files_sizes](./screenshot/Pasted image 20230328155815.png)
 	then run `./create_sized_files.sh` 
 	![[Pasted image 20230329183442.png]]
 	After that you can start benchmark AES and 3DES:
